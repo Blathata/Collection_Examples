@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../__pycache__"
+		},
+		{
+			"path": "../ACHIEVEMENT"
+		},
+		{
+			"path": "../checing.py"
+		},
+		{
+			"path": "../PRACTICYM"
+		},
+		{
+			"path": "../TASKS"
+		}
+	]
+}

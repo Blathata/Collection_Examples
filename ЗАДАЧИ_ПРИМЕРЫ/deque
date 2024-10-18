@@ -1,0 +1,7 @@
+from collections import deque
+
+deque(['f', 'g', 'h', 'i', 'j'])
+
+d.pop()                      
+
+d.popleft()                      
