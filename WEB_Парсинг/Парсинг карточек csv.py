@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 session = requests.Session()
 
 url = 'https://parsinger.ru/html/index1_page_1.html'
-site = 'http://parsinger.ru/html/'
+site = 'https://parsinger.ru/html/'
 
 
 def soup(url: str)-> (BeautifulSoup | Exception):
